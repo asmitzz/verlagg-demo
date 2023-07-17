@@ -4,7 +4,7 @@ name: CI
 
 env:
   VERCEL_ORG_ID: Iu7YgdCjNBg1lPtuGkmslAzP
-  VERCEL_PROJECT_ID: prj_U53Engt2egaBycSBkTX2CTXULwrP
+  VERCEL_PROJECT_ID: prj_YMP9jTMtfpCpTHyB2dTo0AalYgPI
 
 # Controls when the workflow will run
 on:
